@@ -1,7 +1,7 @@
 # 💫About Me :
-- Hi Everyone, I am Bùi Vũ Thiên Ân from Ho Chi Minh, Viet Nam.
-- A new developer has graduated, Finding a job in IT.
-- Thereby have the experience to become a high position like senior etc.
+- Hi Everyone, I am Bùi Vũ Thiên Ân from Bien Hoa City, Viet Nam.
+- I have experience in Java, Spring Boot, ReactJS, and NextJS projects.
+- With a dynamic and enthusiastic personality, I excel at exploration, self-learning, and skill enhancement.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anbvt/) 
