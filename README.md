@@ -1,14 +1,17 @@
-# 👋 Xin chào, tôi là Bùi Vũ Thiên Ân (アン)
+## 👋 Xin chào, tôi là Bùi Vũ Thiên Ân (アン)
 
-![Bùi Vũ Thiên Ân](https://avatars.githubusercontent.com/u/97626954?v=4)
-
-📍 Hiện đang sinh sống và làm việc tại Nhật Bản
-
-🌐 Website cá nhân: [buivuthienan.id.vn](https://buivuthienan.id.vn/)
-
-🔗 LinkedIn: [in/anbvt](https://www.linkedin.com/in/anbvt)
-
----
+<table>
+  <tr>
+    <td>
+      <img src="https://avatars.githubusercontent.com/u/97626954?v=4" alt="Bùi Vũ Thiên Ân" width="150"/>
+    </td>
+    <td style="padding-left: 20px; vertical-align: middle;">
+      <p>📍 Hiện đang sinh sống và học tập tại Nhật Bản</p>
+      <p>🌐 Website cá nhân: <a href="https://buivuthienan.id.vn/">buivuthienan.id.vn</a></p>
+      <p>🔗 LinkedIn: <a href="https://www.linkedin.com/in/anbvt">in/anbvt</a></p>
+    </td>
+  </tr>
+</table>
 
 ## 💼 Giới thiệu
 
@@ -22,7 +25,7 @@ Chào bạn! Tôi là một lập trình viên đam mê công nghệ, hiện đa
 - **Frameworks**: Spring Boot, ReactJS, NextJS
 - **Cơ sở dữ liệu**: MySQL, MongoDB
 - **Công cụ & Công nghệ khác**: Git, Docker, CI/CD
-
+- **Language**: 日本語(勉強中)
 ---
 
 ## 📂 Dự án nổi bật
