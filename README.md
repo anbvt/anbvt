@@ -46,7 +46,7 @@ Dự án thực hành với Spring Data JPA, triển khai các thao tác CRUD c�
 
 ## 📬 Liên hệ
 
-- 📧 Email: [youremail@example.com](mailto:youremail@example.com)
+- 📧 Email: [anbvt562003@gmail.com](mailto:anbvt562003@gmail.com)
 - 🌐 Website: [buivuthienan.id.vn](https://buivuthienan.id.vn/)
 - 🔗 LinkedIn: [in/anbvt](https://www.linkedin.com/in/anbvt)
 
