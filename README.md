@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://avatars.githubusercontent.com/u/97626954?v=4" alt="Bùi Vũ Thiên Ân" style="border-radius: 50%;" width="150"/>
+      <img src="https://avatars.githubusercontent.com/u/97626954?v=4" alt="Bùi Vũ Thiên Ân" width="150"/>
     </td>
     <td style="padding-left: 20px; vertical-align: middle;">
       <p>📍 Currently living and studying in Japan</p>
