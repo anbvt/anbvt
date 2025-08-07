@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Bùi Vũ Thiên Ân (アン)
 
-<table border="0">
+<table>
   <tr>
     <td>
       <img src="https://avatars.githubusercontent.com/u/97626954?v=4" alt="Bùi Vũ Thiên Ân" width="150"/>
