@@ -1,5 +1,3 @@
-## 👋 Hello, I'm Bùi Vũ Thiên Ân (アン)
-
 ## 💼 About Me
 
 Hi there! I'm a passionate software developer who loves technology. I'm currently learning and growing in the field of software development.  
