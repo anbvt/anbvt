@@ -1,18 +1,5 @@
 ## 👋 Hello, I'm Bùi Vũ Thiên Ân (アン)
 
-<table>
-  <tr>
-    <td>
-      <img src="https://avatars.githubusercontent.com/u/97626954?v=4" alt="Bùi Vũ Thiên Ân" width="150"/>
-    </td>
-    <td style="padding-left: 20px; vertical-align: middle;">
-      <p>📍 Currently living and studying in Japan</p>
-      <p>🌐 Personal Website: <a href="https://buivuthienan.id.vn/">buivuthienan.id.vn</a></p>
-      <p>🔗 LinkedIn: <a href="https://www.linkedin.com/in/anbvt">in/anbvt</a></p>
-    </td>
-  </tr>
-</table>
-
 ## 💼 About Me
 
 Hi there! I'm a passionate software developer who loves technology. I'm currently learning and growing in the field of software development.  
