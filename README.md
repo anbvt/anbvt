@@ -18,13 +18,13 @@ With a dynamic and enthusiastic personality, I'm always looking for opportunitie
 
 ## 📂 Highlighted Projects
 
-### 1. [cinema]([https://github.com/anbvt/web-cinema](https://github.com/anbvt/web-cinema))  
+### 1. [cinema] : [https://github.com/anbvt/web-cinema](https://github.com/anbvt/web-cinema)
 A movie theater management application with a clean UI built using Next.js and Tailwind CSS.
 
-### 2. [laptop]([https://github.com/anbvt/web-laptop](https://github.com/anbvt/web-laptop))  
+### 2. [laptop] : [https://github.com/anbvt/web-laptop](https://github.com/anbvt/web-laptop)
 A laptop theater management application with a clean UI built using React.js and Tailwind CSS.
 
-### 3. [glasses]([https://github.com/anbvt/glasses-stores](https://github.com/anbvt/glasses-stores))  
+### 3. [glasses] : [https://github.com/anbvt/glasses-stores](https://github.com/anbvt/glasses-stores) 
 A Spring Boot-based form management system using JPA and Hibernate.
 
 ---
